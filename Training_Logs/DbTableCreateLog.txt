@@ -1,0 +1,33 @@
+2020-02-16/16:36:34		Tables created successfully!!
+2020-02-16/17:27:48		Tables created successfully!!
+2022-02-11/00:57:24		Error while creating table: unable to open database file 
+2022-02-11/12:43:39		Error while creating table: unable to open database file 
+2022-02-11/12:48:19		Error while creating table: unable to open database file 
+2022-02-11/12:48:23		Error while creating table: unable to open database file 
+2022-02-11/12:55:16		Error while creating table: unable to open database file 
+2022-02-11/12:58:47		Error while creating table: unable to open database file 
+2022-02-11/12:59:54		Error while creating table: unable to open database file 
+2022-02-11/13:18:08		Error while creating table: unable to open database file 
+2022-02-11/13:19:00		Error while creating table: unable to open database file 
+2022-02-11/13:24:26		Error while creating table: unable to open database file 
+2022-02-11/13:24:55		Tables created successfully!!
+2022-02-11/13:26:27		Tables created successfully!!
+2022-02-11/13:54:33		Tables created successfully!!
+2022-02-11/13:56:37		Tables created successfully!!
+2022-02-11/13:58:09		Tables created successfully!!
+2022-02-11/14:02:27		Tables created successfully!!
+2022-02-11/14:07:58		Tables created successfully!!
+2022-02-11/14:11:54		Tables created successfully!!
+2022-02-11/14:13:59		Tables created successfully!!
+2022-02-11/14:18:56		Tables created successfully!!
+2022-02-11/14:18:56		Tables created successfully!!
+2022-02-11/14:24:54		Tables created successfully!!
+2022-02-11/14:29:18		Tables created successfully!!
+2022-02-11/14:33:09		Tables created successfully!!
+2022-02-11/14:42:23		Tables created successfully!!
+2022-02-11/14:43:53		Tables created successfully!!
+2022-02-11/15:10:13		Tables created successfully!!
+2022-02-11/15:16:11		Tables created successfully!!
+2022-02-11/15:19:25		Tables created successfully!!
+2022-02-11/15:22:10		Tables created successfully!!
+2022-02-11/15:23:44		Tables created successfully!!

@@ -1,0 +1,105 @@
+2020-02-16/16:44:49		GoodRaw directory deleted successfully!!!
+2020-02-16/16:44:50		Bad files moved to archive
+2020-02-16/16:44:50		Bad Raw Data Folder Deleted successfully!!
+2020-02-16/17:36:58		GoodRaw directory deleted successfully!!!
+2020-02-16/17:36:58		Bad files moved to archive
+2020-02-16/17:36:58		Bad Raw Data Folder Deleted successfully!!
+2022-02-11/12:43:37		BadRaw directory deleted before starting validation!!!
+2022-02-11/12:43:37		GoodRaw directory deleted successfully!!!
+2022-02-11/12:48:18		BadRaw directory deleted before starting validation!!!
+2022-02-11/12:48:18		GoodRaw directory deleted successfully!!!
+2022-02-11/12:48:21		BadRaw directory deleted before starting validation!!!
+2022-02-11/12:48:21		GoodRaw directory deleted successfully!!!
+2022-02-11/12:55:15		BadRaw directory deleted before starting validation!!!
+2022-02-11/12:55:15		GoodRaw directory deleted successfully!!!
+2022-02-11/12:58:10		BadRaw directory deleted before starting validation!!!
+2022-02-11/12:58:10		GoodRaw directory deleted successfully!!!
+2022-02-11/12:59:30		BadRaw directory deleted before starting validation!!!
+2022-02-11/12:59:30		GoodRaw directory deleted successfully!!!
+2022-02-11/12:59:44		BadRaw directory deleted before starting validation!!!
+2022-02-11/12:59:44		Error while Deleting Directory : [WinError 32] The process cannot access the file because it is being used by another process: 'Training_Raw_files_validated/Good_Raw/phising_08012020_120000.csv'
+2022-02-11/13:00:27		GoodRaw directory deleted successfully!!!
+2022-02-11/13:18:43		BadRaw directory deleted before starting validation!!!
+2022-02-11/13:18:43		GoodRaw directory deleted successfully!!!
+2022-02-11/13:18:44		BadRaw directory deleted before starting validation!!!
+2022-02-11/13:18:44		Error while Deleting Directory : [WinError 32] The process cannot access the file because it is being used by another process: 'Training_Raw_files_validated/Good_Raw/phising_08012020_120000.csv'
+2022-02-11/13:20:19		GoodRaw directory deleted successfully!!!
+2022-02-11/13:24:53		BadRaw directory deleted before starting validation!!!
+2022-02-11/13:24:53		GoodRaw directory deleted successfully!!!
+2022-02-11/13:24:55		GoodRaw directory deleted successfully!!!
+2022-02-11/13:24:55		Bad files moved to archive
+2022-02-11/13:24:55		Bad Raw Data Folder Deleted successfully!!
+2022-02-11/13:26:27		GoodRaw directory deleted successfully!!!
+2022-02-11/13:26:27		Bad files moved to archive
+2022-02-11/13:26:27		Bad Raw Data Folder Deleted successfully!!
+2022-02-11/13:54:31		BadRaw directory deleted before starting validation!!!
+2022-02-11/13:54:31		GoodRaw directory deleted successfully!!!
+2022-02-11/13:54:33		GoodRaw directory deleted successfully!!!
+2022-02-11/13:54:33		Bad files moved to archive
+2022-02-11/13:54:33		Bad Raw Data Folder Deleted successfully!!
+2022-02-11/13:56:37		GoodRaw directory deleted successfully!!!
+2022-02-11/13:56:37		Bad files moved to archive
+2022-02-11/13:56:37		Bad Raw Data Folder Deleted successfully!!
+2022-02-11/13:58:09		GoodRaw directory deleted successfully!!!
+2022-02-11/13:58:09		Bad files moved to archive
+2022-02-11/13:58:09		Bad Raw Data Folder Deleted successfully!!
+2022-02-11/14:02:27		GoodRaw directory deleted successfully!!!
+2022-02-11/14:02:27		Bad files moved to archive
+2022-02-11/14:02:27		Bad Raw Data Folder Deleted successfully!!
+2022-02-11/14:07:52		BadRaw directory deleted before starting validation!!!
+2022-02-11/14:07:52		Error while Deleting Directory : [WinError 5] Access is denied: 'Training_Raw_files_validated/Bad_Raw/'
+2022-02-11/14:07:57		GoodRaw directory deleted successfully!!!
+2022-02-11/14:07:58		GoodRaw directory deleted successfully!!!
+2022-02-11/14:07:58		Bad files moved to archive
+2022-02-11/14:07:58		Bad Raw Data Folder Deleted successfully!!
+2022-02-11/14:10:52		BadRaw directory deleted before starting validation!!!
+2022-02-11/14:10:52		Error while Deleting Directory : [WinError 32] The process cannot access the file because it is being used by another process: 'Training_Raw_files_validated/Good_Raw/phising_08012020_120000.csv'
+2022-02-11/14:11:53		GoodRaw directory deleted successfully!!!
+2022-02-11/14:11:54		GoodRaw directory deleted successfully!!!
+2022-02-11/14:11:54		Bad files moved to archive
+2022-02-11/14:11:54		Bad Raw Data Folder Deleted successfully!!
+2022-02-11/14:13:59		GoodRaw directory deleted successfully!!!
+2022-02-11/14:13:59		Bad files moved to archive
+2022-02-11/14:13:59		Bad Raw Data Folder Deleted successfully!!
+2022-02-11/14:18:53		BadRaw directory deleted before starting validation!!!
+2022-02-11/14:18:53		GoodRaw directory deleted successfully!!!
+2022-02-11/14:18:53		Error while creating Directory [WinError 183] Cannot create a file when that file already exists: 'Training_Raw_files_validated/Good_Raw/':
+2022-02-11/14:18:56		GoodRaw directory deleted successfully!!!
+2022-02-11/14:18:56		Bad files moved to archive
+2022-02-11/14:18:56		Bad Raw Data Folder Deleted successfully!!
+2022-02-11/14:24:54		GoodRaw directory deleted successfully!!!
+2022-02-11/14:24:54		Bad files moved to archive
+2022-02-11/14:24:54		Bad Raw Data Folder Deleted successfully!!
+2022-02-11/14:29:01		BadRaw directory deleted before starting validation!!!
+2022-02-11/14:29:01		Error while Deleting Directory : [WinError 32] The process cannot access the file because it is being used by another process: 'Training_Raw_files_validated/Good_Raw/phising_08012020_120000.csv'
+2022-02-11/14:29:16		GoodRaw directory deleted successfully!!!
+2022-02-11/14:29:18		GoodRaw directory deleted successfully!!!
+2022-02-11/14:29:18		Bad files moved to archive
+2022-02-11/14:29:18		Bad Raw Data Folder Deleted successfully!!
+2022-02-11/14:31:13		BadRaw directory deleted before starting validation!!!
+2022-02-11/14:31:13		Error while Deleting Directory : [WinError 32] The process cannot access the file because it is being used by another process: 'Training_Raw_files_validated/Good_Raw/phising_08012020_120000.csv'
+2022-02-11/14:31:13		Error while Deleting Directory : [WinError 32] The process cannot access the file because it is being used by another process: 'Training_Raw_files_validated/Good_Raw/phising_08012020_120000.csv'
+2022-02-11/14:33:08		GoodRaw directory deleted successfully!!!
+2022-02-11/14:33:09		GoodRaw directory deleted successfully!!!
+2022-02-11/14:33:09		Bad files moved to archive
+2022-02-11/14:33:09		Bad Raw Data Folder Deleted successfully!!
+2022-02-11/14:42:23		GoodRaw directory deleted successfully!!!
+2022-02-11/14:42:23		Bad files moved to archive
+2022-02-11/14:42:23		Bad Raw Data Folder Deleted successfully!!
+2022-02-11/14:43:53		GoodRaw directory deleted successfully!!!
+2022-02-11/14:43:53		Bad files moved to archive
+2022-02-11/14:43:53		Bad Raw Data Folder Deleted successfully!!
+2022-02-11/15:10:13		GoodRaw directory deleted successfully!!!
+2022-02-11/15:10:13		Bad files moved to archive
+2022-02-11/15:10:13		Bad Raw Data Folder Deleted successfully!!
+2022-02-11/15:16:11		GoodRaw directory deleted successfully!!!
+2022-02-11/15:16:11		Bad files moved to archive
+2022-02-11/15:16:11		Bad Raw Data Folder Deleted successfully!!
+2022-02-11/15:19:32		GoodRaw directory deleted successfully!!!
+2022-02-11/15:19:42		Bad files moved to archive
+2022-02-11/15:19:42		Bad Raw Data Folder Deleted successfully!!
+2022-02-11/15:23:44		BadRaw directory deleted before starting validation!!!
+2022-02-11/15:23:44		GoodRaw directory deleted successfully!!!
+2022-02-11/15:24:01		GoodRaw directory deleted successfully!!!
+2022-02-11/15:24:01		Bad files moved to archive
+2022-02-11/15:24:01		Bad Raw Data Folder Deleted successfully!!

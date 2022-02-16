@@ -1,0 +1,15 @@
+
+Flask
+Flask-Cors
+Flask-MonitoringDashboard
+
+matplotlib
+
+numpy
+pandas
+
+scikit-learn
+scipy
+
+Werkzeug
+
